@@ -36,7 +36,6 @@ shift+alt+a
 （12）shift+F3 ctrl+F3
 选中关键字的向上遍历和向下遍历，但是在执行这个操作前可能需要通过ctrl+f将其置于查找窗口中
 
-
 （13）vscode使用ssh密匙远程登录ssh，避免每次登录都输入密码
 https://blog.csdn.net/u014661152/article/details/109337818
 
@@ -54,6 +53,8 @@ https://www.jianshu.com/p/07304f072039
 （17） 设置滑轮为字体缩放快捷键
 https://www.cnblogs.com/wangkaiyu/p/12939844.html
 
+（18）VSCode设置Tab键为4个空格
+https://www.cnblogs.com/dotnetcrazy/p/9890316.html
 
-
-
+（19）shift+tab 
+选中减少缩进，这个和SI中的F9类似，增加缩进还是tab
