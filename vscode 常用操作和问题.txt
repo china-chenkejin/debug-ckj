@@ -1,0 +1,60 @@
+（1）快捷键：Alt + F12
+显示函数或变量定义
+
+（2）快捷键： F12/ ctrl+鼠标左键
+跳转到函数或变量定义
+
+（3）快捷键： Alt + ←   Alt + -> 
+返回上一个编辑位置/前进到编辑位置
+
+（4）快捷键：CTRL + G
+转到行
+
+（5）快捷键：CTRL + F, CTRL + H  ctrl+alt+f
+本地查找/替换、全量查找
+
+（6）CTRL + HOME/END
+跳转到文件开头和结尾
+
+（7）快捷键：CTRL + P
+转到文件
+
+（8）快捷键：F1
+显示所有命令
+
+（9）快捷键：CTRL + \，切换窗户：CTRL + 1/2/3
+垂直拆分VS Code编辑器
+
+（10）快捷键：CTRL + /
+行注释
+shift+alt+a 
+/*  */ 块注释
+
+（11）ctrl+c （空白处）
+复制单行
+
+（12）shift+F3 ctrl+F3
+选中关键字的向上遍历和向下遍历，但是在执行这个操作前可能需要通过ctrl+f将其置于查找窗口中
+
+（13）vscode使用ssh密匙远程登录ssh，避免每次登录都输入密码
+https://blog.csdn.net/u014661152/article/details/109337818
+
+（14）VS Code的Error: Running the contributed command: ‘_workbench.downloadResource‘ failed解决
+https://blog.csdn.net/ibless/article/details/118610776
+
+（15）vscode 解决正在下载程序包“C/C++ language components (Linux / x86_64)” 失败引起的符号找不到问题
+https://blog.csdn.net/chenwr2018/article/details/115774007
+
+（16）修订为护眼模式主题
+https://blog.csdn.net/Lean_on_Me/article/details/84552487
+https://www.jianshu.com/p/07304f072039
+
+
+（17） 设置滑轮为字体缩放快捷键
+https://www.cnblogs.com/wangkaiyu/p/12939844.html
+
+（18）VSCode设置Tab键为4个空格
+https://www.cnblogs.com/dotnetcrazy/p/9890316.html
+
+（19）shift+tab 
+选中减少缩进，这个和SI中的F9类似，增加缩进还是tab
