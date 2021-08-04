@@ -58,3 +58,8 @@ https://www.cnblogs.com/dotnetcrazy/p/9890316.html
 
 （19）shift+tab 
 选中减少缩进，这个和SI中的F9类似，增加缩进还是tab
+
+（20）实现vscode上的服务器代码对比
+https://blog.csdn.net/weixin_45444401/article/details/106544947
+
+
